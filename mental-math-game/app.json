@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Mental Math Challenge",
+    "slug": "mental-math-challenge",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1020"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.mentalmathchallenge"
+    }
+  }
+}
