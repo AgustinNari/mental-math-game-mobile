@@ -91,6 +91,6 @@ The rankings represent locally stored results, not an online multiplayer leaderb
 
 ## Project Scope
 
-This is an educational mobile application focused on interactive gameplay, mathematical challenges, local persistence, and performance tracking.
+This mobile game focuses on interactive arithmetic challenges, local persistence, and performance tracking.
 
 It is not a cloud-connected gaming platform and does not require remote authentication or external database services.
