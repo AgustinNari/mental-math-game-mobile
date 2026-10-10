@@ -4,6 +4,33 @@ An Android-focused mental arithmetic game built with React Native, Expo, and Typ
 
 The application challenges players through different question formats, configurable difficulty levels, timed challenges, and performance tracking. Player profiles, game history, settings, and rankings are stored locally on the device.
 
+## Screenshots
+
+Selected screenshots from an Android build highlight configurable game modes, live challenges, results visualizations, local rankings, and performance statistics. Click any screenshot to view it at full resolution.
+
+<table>
+  <tr>
+    <th>Game Configuration</th>
+    <th>True/False Mode</th>
+    <th>Multiple Choice Mode</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/screenshots/game-configuration.webp"><img src="docs/screenshots/game-configuration.webp" alt="Game configuration showing Classic, True/False, Multiple Choice, difficulty, question count and time options" width="255"></a></td>
+    <td align="center"><a href="docs/screenshots/true-false.webp"><img src="docs/screenshots/true-false.webp" alt="Live True/False arithmetic challenge with question timer and colored answer buttons" width="255"></a></td>
+    <td align="center"><a href="docs/screenshots/multiple-choice.webp"><img src="docs/screenshots/multiple-choice.webp" alt="Live multiple-choice arithmetic question with four possible answers" width="255"></a></td>
+  </tr>
+  <tr>
+    <th>Results &amp; Charts</th>
+    <th>Rankings</th>
+    <th>Performance Statistics</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="docs/screenshots/results-charts.webp"><img src="docs/screenshots/results-charts.webp" alt="Post-game response distribution, points per question and result charts" width="255"></a></td>
+    <td align="center"><a href="docs/screenshots/rankings.webp"><img src="docs/screenshots/rankings.webp" alt="Local leaderboard showing filtered and global rankings" width="255"></a></td>
+    <td align="center"><a href="docs/screenshots/performance-statistics.webp"><img src="docs/screenshots/performance-statistics.webp" alt="Statistics dashboard with games played, average accuracy, scores and response distribution" width="255"></a></td>
+  </tr>
+</table>
+
 ## Features
 
 - Three game modes: Classic, True/False, and Multiple Choice.
